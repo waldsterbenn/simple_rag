@@ -1,0 +1,6 @@
+langchain
+unstructured
+langchain-community
+chromadb
+langchain-openai
+markdown
